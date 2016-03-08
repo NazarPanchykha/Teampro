@@ -1,14 +1,19 @@
-# Teampro
-JSON File for Album_project
-{"Album":[
-    {"singerName":"Red", "songName":"First Song", "songTime":"3:00"},
-    {"singerName":"Black", "songName":"Second Song", "songTime":"4:00"},
-    {"singerName":"Green", "songName":"My First Song", "songTime":"5:00"},
-    {"singerName":"Red", "songName":"My First Song", "songTime":"6:00"},
-    {"singerName":"Green", "songName":"First", "songTime":"3:01"},
-    {"singerName":"Green", "songName":"Second Song", "songTime":"3:02"},
-    {"singerName":"Black", "songName":"Best Song", "songTime":"3:20"},
-    {"singerName":"Red", "songName":"Second Song", "songTime":"3:00"},
-    {"singerName":"Green", "songName":"My First Best Song", "songTime":"3:10"},
-    {"singerName":"Black", "songName":"Just a Song", "songTime":"3:50"},
-]}
+Завдання "Java Team Project"
+
+/* Задано текстовий файл з інформацією про музичний альбом. 
+Кожний запис містить прізвище виконавця, назву пісні та її тривалість. 
+Створити відповідний клас, для зберігання інформації використати одну з колекцій; відсортувати дані за назвою пісні. 
+Відсортовані записи вивести на екран. Передбачити обробку виключних ситуацій.
+* 1. Робота (проект) + github (code control system) - робота у команді передбачає розприділеня тасків 
+між учасниками команди та імплементації code control system у розробці з задіянням усіх учасників проекту.
+Також буде оцінюватись кількість commit-ів кожного учасника команди 
+* 2. Метод, який сортує дані у кожному з завдань повинен також вміти сортувати дані з однаковими полями, 
+наприклад за іншими філдами класу.
+* 3. У ролі текстового файлу для зчитування даних пріоритетом використання є json, xml, txt, property file
+*4. Для здачі завдання слід прикріпити url на проект на github-i одному з учасників команди, 
+який і буде створювати та моніторити git репозиторій та список прізвищ учасників своєї команди*/
+
+Team1
+Назар Панчиха
+Юрій Соколовський
+Оксана Гілета
