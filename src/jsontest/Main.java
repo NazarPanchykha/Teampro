@@ -38,7 +38,6 @@ public class Main {
 			 System.out.println(record);
 			 }
 		
-			
 			 System.out.println("\n" + "~~~~AFTER SORTING~~~~");
 			 Collections.sort(list);
 			 for (Record record : list) {
